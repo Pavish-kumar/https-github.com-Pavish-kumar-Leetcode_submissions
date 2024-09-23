@@ -7,19 +7,14 @@ class Solution {
     }
     
     public int pick(int target) {
-        ArrayList<Integer> list=new ArrayList<>();
-        for(int i=0;i<nums.length;i++)
-        {
+       while(true)
+       {
+            int i=r.nextInt(nums.length);
             if(nums[i]==target)
             {
-                list.add(i);
+                return i;
             }
-        }
-        if(list.size()>0)
-        {
-            return list.get(r.nextInt(list.size()));
-        }
-        return -1;
+       }
     }
 }
 
