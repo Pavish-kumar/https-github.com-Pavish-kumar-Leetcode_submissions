@@ -1,9 +1,8 @@
-import java.util.Random;
 class Solution {
     private int nums[];
     private Random r;
     public Solution(int[] nums) {
-        this.nums=nums.clone();
+        this.nums=nums;
         this.r=new Random();
     }
     
