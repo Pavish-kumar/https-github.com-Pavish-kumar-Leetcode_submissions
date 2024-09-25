@@ -26,8 +26,7 @@ class Solution {
             }
             if(arr[(int)t.charAt(i)]!=(int)s.charAt(i))
             {
-                a=0;
-                break;
+                return false;
             }
         }
         if(a==0)
