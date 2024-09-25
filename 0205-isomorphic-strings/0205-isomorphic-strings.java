@@ -1,7 +1,6 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         int[] arr=new int[256];
-        int a=1;
         if(s.length()!=t.length())
         {
             return false;
@@ -28,10 +27,6 @@ class Solution {
             {
                 return false;
             }
-        }
-        if(a==0)
-        {
-            return false;
         }
         return true;
     }
