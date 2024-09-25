@@ -14,8 +14,7 @@ class Solution {
             }
             if(arr[(int)s.charAt(i)]!=(int)t.charAt(i))
             {
-                a=0;
-                break;
+                return false;
             }
         }
         Arrays.fill(arr,0);
