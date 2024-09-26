@@ -26,6 +26,7 @@ class Solution {
                 temp=temp.next;
             }
         }
+        System.gc();
         return head;
     }
 }
