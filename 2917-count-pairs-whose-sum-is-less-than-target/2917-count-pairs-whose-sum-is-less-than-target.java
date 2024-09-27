@@ -11,7 +11,6 @@ class Solution {
                 }
             }
         }
-        System.gc();
         return c;
     }
 }
