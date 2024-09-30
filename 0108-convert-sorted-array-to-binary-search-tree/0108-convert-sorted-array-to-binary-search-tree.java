@@ -32,6 +32,7 @@ class Solution {
         {
             return null;
         }
+        System.gc();
         return fuc(nums,0,nums.length-1);
     }
 }
