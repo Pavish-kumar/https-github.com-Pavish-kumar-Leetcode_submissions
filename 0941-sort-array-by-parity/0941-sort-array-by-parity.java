@@ -6,16 +6,13 @@ class Solution {
         {
             if(nums[i]%2==0)
             {
-                arr[j]=nums[i];
-                j++;
+                arr[j++]=nums[i];
             }
             else
             {
-                arr[k]=nums[i];
-                k--;
+                arr[k--]=nums[i];
             }
         }
-
         return arr;
     }
 }
