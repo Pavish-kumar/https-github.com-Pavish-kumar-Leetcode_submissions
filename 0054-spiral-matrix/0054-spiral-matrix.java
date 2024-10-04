@@ -34,7 +34,6 @@ class Solution {
                 left++;
             }
         }
-            System.gc();
             return list;
         
     }
