@@ -10,6 +10,7 @@ class Solution {
             }
             s.push(i);
         }
+        System.gc();
         return temp;
     }
 }
