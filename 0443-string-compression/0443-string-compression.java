@@ -21,7 +21,7 @@ class Solution {
                 }
             }
         }
-        System.gc();
+    
         return in;
     }
 }
