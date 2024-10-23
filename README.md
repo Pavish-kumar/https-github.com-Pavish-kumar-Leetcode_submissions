@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
