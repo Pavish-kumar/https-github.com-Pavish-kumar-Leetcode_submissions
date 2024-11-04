@@ -13,6 +13,7 @@ class Solution {
                 max=Math.max(max,nums[i][n-i]);
             }
         }
+        System.gc();
         return max == Integer.MIN_VALUE ? 0 : max;
     }
     public boolean isPrime(int num)
