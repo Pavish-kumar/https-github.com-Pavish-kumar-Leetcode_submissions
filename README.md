@@ -306,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
