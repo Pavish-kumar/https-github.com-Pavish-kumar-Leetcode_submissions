@@ -1,8 +1,7 @@
-Select d.name as Department, e.name as Employee, e.salary as Salary
-From (
-    Select name, salary, departmentId, Dense_Rank() Over (Partition by departmentId Order by Salary DESC) as denseRank
-    From Employee
-) AS e
-Join Department d
-On e.departmentId = d.id
-Where e.denseRank <= 3
+select Department, Employee,Salary
+from(select d.name as Department,e.name as  Employee, e.salary as Salary,
+Dense_Rank() over(partition by d.name order by salary desc)  unqrk
+from Employee e
+join Department d on d.id=e.departmentId
+) as x
+where x.unqrk<4
