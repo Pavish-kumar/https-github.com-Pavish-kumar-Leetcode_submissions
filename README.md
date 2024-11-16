@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0312-burst-balloons) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0629-k-inverse-pairs-array](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0629-k-inverse-pairs-array) |
 ## Divide and Conquer
 |  |
 | ------- |
