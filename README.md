@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2722-prime-in-diagonal) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
