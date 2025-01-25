@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2722-prime-in-diagonal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0935-orderly-queue) |
 | [0941-sort-array-by-parity](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1073-number-of-enclaves](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Shortest Path
 |  |
 | ------- |
