@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1755-defuse-the-bomb) |
 | [1876-map-of-highest-peak](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2145-grid-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2292-counting-words-with-a-given-prefix) |
