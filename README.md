@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2465-shifting-letters-ii) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0874-backspace-string-compare) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0874-backspace-string-compare) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
