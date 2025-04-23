@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0178-rank-scores) |
 | [0185-department-top-three-salaries](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0185-department-top-three-salaries) |
 ## Data Stream
 |  |
