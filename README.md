@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0169-majority-element) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0233-number-of-digit-one) |
