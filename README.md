@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0792-binary-search) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Pavish-kumar/https-github.com-Pavish-kumar-Leetcode_submissions/tree/master/2361-calculate-digit-sum-of-a-string) |
