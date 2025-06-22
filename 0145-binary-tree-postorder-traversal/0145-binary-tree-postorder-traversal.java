@@ -1,31 +1,23 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
+        Stack<TreeNode> st=new Stack<>();
         List<Integer> list=new ArrayList<>();
-        func(root,list);
-        return list;
-    }
-    public List<Integer> func(TreeNode root,List<Integer> list)
-    {
-        if(root!=null)
-        {
-            func(root.left,list);
-            func(root.right,list);
-            list.add(root.val);
+        TreeNode temp=root,lastVisit=null;
+        while(temp!=null||!st.isEmpty()){
+            if(temp!=null){
+                st.push(temp);
+                temp=temp.left;
+            }
+            else{
+                TreeNode peek=st.peek();
+                if(peek.right!=null&&lastVisit!=peek.right){
+                    temp=peek.right;
+                }
+                else{
+                    list.add(peek.val);
+                    lastVisit=st.pop();
+                }
+            }
         }
         return list;
     }
