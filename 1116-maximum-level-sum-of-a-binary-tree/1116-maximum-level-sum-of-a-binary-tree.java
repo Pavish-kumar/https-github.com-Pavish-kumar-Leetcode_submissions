@@ -15,7 +15,7 @@
  */
 class Solution {
     public int maxLevelSum(TreeNode root) {
-        int level=1;
+        int level=0;
         if(root==null){
             return -1;
         }
@@ -24,6 +24,7 @@ class Solution {
         Queue<TreeNode> q=new LinkedList<>();
         q.offer(root);
         while(!q.isEmpty()){
+            level++;
             int cs=q.size();
             int sum=0;
             for(int i=0;i<cs;i++){
@@ -40,7 +41,6 @@ class Solution {
                 maxSum=sum;
                 res=level;
             }
-            level++;
         }
         return res;
     }
