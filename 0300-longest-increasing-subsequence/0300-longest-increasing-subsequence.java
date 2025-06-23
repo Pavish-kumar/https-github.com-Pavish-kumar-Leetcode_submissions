@@ -1,26 +1,17 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        ArrayList<Stack<Integer>> ans = new ArrayList<>();
-        Stack<Integer> s = new Stack<>();    
-        s.push(nums[0]);
-        ans.add(s);
+        if(nums.length==0){
+            return 0;
+        }
+        int[] dp=new int[nums.length];
+        Arrays.fill(dp,1);
         for(int i=1;i<nums.length;i++){
-            for(int j=0;j<ans.size();j++){
-                if(nums[i]<=ans.get(j).peek()){
-                    ans.get(j).push(nums[i]);
-                    break;
-                }else if(nums[i]>ans.get(j).peek() && j==ans.size()-1){
-                    Stack a = new Stack<Integer>();
-                    a.push(nums[i]);
-                    ans.add(a);
-                    s = a;
-                    break;
-                }else{
-                    continue;
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]){
+                    dp[i]=Math.max(dp[i],dp[j]+1);
                 }
             }
         }
-        System.out.println(ans);
-        return ans.size();
+        return Arrays.stream(dp).max().orElse(0);
     }
 }
