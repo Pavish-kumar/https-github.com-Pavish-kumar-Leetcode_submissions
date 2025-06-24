@@ -8,33 +8,15 @@
  * }
  */
 class Solution {
-    List<TreeNode> ppath=new ArrayList<>();
-    List<TreeNode> qpath=new ArrayList<>();
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        find(root,p,ppath);
-        find(root,q,qpath);
-        TreeNode common=null;
-        int minL=Math.min(ppath.size(),qpath.size());
-        for(int i=0;i<minL;i++){
-            if(ppath.get(i)!=qpath.get(i)){
-                break;
-            }
-            common=ppath.get(i);
+        if(root==null||p==root||q==root){
+            return root;
         }
-        return common;
-    }
-    public boolean find(TreeNode root,TreeNode target,List<TreeNode> path){
-        if(root==null){
-            return false;
+        TreeNode left=lowestCommonAncestor(root.left,p,q);
+        TreeNode right=lowestCommonAncestor(root.right,p,q);
+        if(left!=null&&right!=null){
+            return root;
         }
-        path.add(root);
-        if(target.val==root.val){
-            return true;
-        }
-        if(find(root.left,target,path)||find(root.right,target,path)){
-            return true;
-        }
-        path.remove(path.size()-1);
-        return false;
+        return left!=null?left:right;
     }
 }
