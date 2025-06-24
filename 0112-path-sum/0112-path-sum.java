@@ -14,19 +14,20 @@
  * }
  */
 class Solution {
+    int res=0;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        boolean res=helper(root,targetSum);
-        return res==true;
-    }
-    private boolean helper(TreeNode node,int targetSum)
-    {
-        if(node==null){
+        if(root==null){
             return false;
         }
-        targetSum-=node.val;
-        if(node.left==null&&node.right==null){
-            return targetSum==0;
+        return helper(root,targetSum);
+    }
+    public boolean helper(TreeNode root,int target){
+        if(root==null){
+            return false;
         }
-        return helper(node.left,targetSum)||helper(node.right,targetSum);
+        if(root.left==null&&root.right==null){
+            return target-root.val==0;
+        }
+        return helper(root.left,target-root.val)||helper(root.right,target-root.val);
     }
 }
