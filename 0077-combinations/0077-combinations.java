@@ -8,6 +8,7 @@ class Solution {
     public void helper(int st,int en,int k,List<Integer> list,List<List<Integer>> res){
         if(list.size()==k){
             res.add(new ArrayList<>(list));
+            return;
         }
         for(int i=st;i<=en;i++){
             list.add(i);
