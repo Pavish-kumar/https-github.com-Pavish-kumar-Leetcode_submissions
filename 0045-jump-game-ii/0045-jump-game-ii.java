@@ -5,16 +5,16 @@ class Solution {
         }
         int maxJump=0,lastjump=0;
         int jump=0;
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<nums.length-1;i++){
             maxJump=Math.max(maxJump,nums[i]+i);
             if(i==lastjump){
                 lastjump=maxJump;
                 jump++;
                 if(lastjump>=nums.length-1){
-                    return jump;
+                    break;
                 }
             }
         }
-        return -1;
+        return jump;
     }
 }
