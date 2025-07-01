@@ -29,10 +29,10 @@ class Solution {
             for(int i=0;i<cs;i++){
                 TreeNode temp=q.poll();
                 if(track%2==0){
-                    list.add(temp.val);
+                    list.addLast(temp.val);
                 }
                 else{
-                    list.add(0,temp.val);
+                    list.addFirst(temp.val);
                 }
                 if(temp.left!=null){
                     q.offer(temp.left);
